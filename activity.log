@@ -806,3 +806,4 @@
 2025-07-08 21:19:16 cleanup code
 2025-07-14 10:09:37 enhance logging
 2025-09-25 09:31:04 fix null pointer
+2025-01-19 11:24:44 reduce complexity
