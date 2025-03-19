@@ -1214,3 +1214,4 @@
 2025-05-25 03:53:36 fix docker build
 2025-12-03 04:31:18 fix compatibility
 2025-10-20 18:57:15 fix typo in docs
+2025-03-19 06:03:41 simplify logic
