@@ -1856,3 +1856,4 @@
 2025-10-24 03:31:57 enhance logging
 2025-06-18 06:45:51 fix build error
 2025-01-27 11:23:02 reduce complexity
+2025-05-01 10:22:58 better error handling
