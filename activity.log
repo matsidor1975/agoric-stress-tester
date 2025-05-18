@@ -463,3 +463,4 @@
 2025-09-12 13:32:22 minor refactor
 2025-03-01 18:07:14 update configs for prod
 2025-02-21 11:48:47 update API docs
+2025-05-18 06:23:22 improve logging format
