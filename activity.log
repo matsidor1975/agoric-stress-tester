@@ -707,3 +707,4 @@
 2025-01-01 22:47:29 fix timezone issue
 2025-09-26 10:27:51 update build script
 2025-11-24 06:50:37 optimize function
+2025-06-19 17:07:11 improve logging format
