@@ -500,3 +500,4 @@
 2025-12-21 22:26:48 fix misconfiguration
 2025-02-22 07:13:28 improve performance
 2025-12-22 19:31:35 fix encoding issue
+2025-06-28 16:16:15 better error handling
