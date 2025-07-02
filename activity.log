@@ -751,3 +751,4 @@
 2025-12-21 14:34:35 add integration tests
 2025-06-08 20:56:02 initial commit
 2025-11-16 18:06:51 fix config bug
+2025-07-02 11:01:11 improve logging format
