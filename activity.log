@@ -324,3 +324,4 @@
 2025-04-09 00:09:32 update dependencies
 2025-07-11 13:31:04 adjust validation rules
 2025-09-25 02:53:13 fix docker build
+2025-08-27 19:07:56 clean project structure
