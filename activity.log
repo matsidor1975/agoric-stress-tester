@@ -15,3 +15,4 @@
 2025-05-02 15:09:56 add helper function
 2025-11-15 05:36:42 improve caching
 2025-04-26 00:23:33 adjust timeout
+2025-09-22 12:19:37 fix encoding issue
