@@ -184,3 +184,4 @@
 2025-08-01 11:52:33 optimize queries
 2025-02-17 19:49:43 optimize function
 2025-09-29 14:45:28 add TODOs
+2025-10-01 09:14:08 better error handling
