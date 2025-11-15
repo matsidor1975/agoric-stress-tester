@@ -1680,3 +1680,4 @@
 2025-10-25 22:53:47 stabilize build
 2025-10-29 05:50:43 add helper function
 2025-10-30 23:30:17 improve maintainability
+2025-11-15 11:05:24 fix build error
